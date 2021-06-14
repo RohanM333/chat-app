@@ -1,6 +1,6 @@
 # chat-app
 
-Visit deployed app: instachatlify.netlify.app
+Visit deployed app: https://instachatlify.netlify.app/
 
 Tools used:
 React js
